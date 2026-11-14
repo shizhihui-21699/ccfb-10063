@@ -1,0 +1,32 @@
+From: =?utf-8?B?5ZWG5Z+O5a6i5pyN?= <care@shop.example.org>
+To: user@corp.example.com
+Subject: Order confirmation
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <86f8888feb8c463059@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_7db7c740c505feb5"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <care@shop.example.org>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.example.org; s=s1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=OnG5fpSyYIt2InU/cKRiF+DnEs0n/abK7jKXtVui5OY=; x=1795282021;
+	b=JoYKXkUpQgP0spyxwoI7JTfQFtCEWuxLVGOZ9PmWkDRyhdkcmnCR9NPMG0CP0EJCguDQ1S
+	PQ1/qZrjhdysuHLpDeWYWyx9I2EmKYmsWrBTFJD+8T/huSUExb0gBQ6i5PY10Tyb2a9vjK
+	NGnFV8UahWU7rs4BHgAAQnSiMBIb139X2G6oW/Hc1vfHQ00EV1dFmdquzOtf+6xKdnZiFn
+	5/VgfCrazMbpjXirXAI9jvAIKtFvrpY4vsR7e2rFQLDSUX9GF3G85nvs8sKf5LcWq9EbI6
+	Lun8HCIHBmwQDxtuDgR951H/krpv83YJkDKBt4RBjbEHi+rkllOdC4A8HYUxeQ==
+
+------=_Part_7db7c740c505feb5
+Content-Type: text/plain; charset=utf-8
+
+原始内容
+
+------=_Part_7db7c740c505feb5
+Content-Type: text/html; charset=utf-8
+
+<p>tampered body with http://phish-login.example.top/x</p>
+------=_Part_7db7c740c505feb5--

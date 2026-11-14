@@ -1,0 +1,36 @@
+From: =?utf-8?B?6KGM5pS/6YOo?= <admin@corp.example.com>
+To: staff@corp.example.com
+Subject: =?utf-8?B?5a2j5bqm5L6L5Lya6YCa55+l44CQ6K+35p+l5pS244CR?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <007ff7e15a1d10b0ef@corp.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_24184854218796f1"
+Received: from mx1.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mailgw.internal.local with ESMTPS id BBB02;
+	Sat, 14 Nov 2026 17:27:03 GMT
+Received: from smtp.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mx1.corp.example.com with ESMTPS id AAA01;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <admin@corp.example.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=corp.example.com; s=selector1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=K/MVe3jy7bp7AKa9aKgLCWkwRAp/WecmDdf368Zz0/E=; x=1795282021;
+	b=YArzJ4mDR1hQDRnJZiXDSq7xogIjIjQc17CVUAZyZVcngieU8LKnpJBVARmsMuDskrYT7s
+	LvUAXjEhRQsEMlsrVuPmUOvA+77SJJzeYapg/tgZ6iDyEbXjIVsZsH7IIhC+NM+8jIES5d
+	hXaxrwII4oUuSV5A4JZhV7CxPAxEMLNT3pxpXJmmwE7UBtuHvKjrYMc+y5YFrwoaovyAc2
+	wEF2DZWsdixaI1g4IncQngNB8QDwHxeIcOzrcb+cYuT1Zx0s1VYsbkwKASP7B3yzIgjYHm
+	lr9o8wvN5MkoC4gYQuUdA/ifo/ffWfkBU0wQdx5A+V0GyJ7IzYiozBZIcoBcdA==
+
+------=_Part_24184854218796f1
+Content-Type: text/plain; charset=utf-8
+
+各位同事,
+
+下周一上午 10 点开季度例会,请提前准备部门汇报材料。
+
+行政部
+
+------=_Part_24184854218796f1
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>各位同事,</p><p>下周一上午 10 点开季度例会。</p><p>行政部</p></body></html>
+------=_Part_24184854218796f1--

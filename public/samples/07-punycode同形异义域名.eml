@@ -1,0 +1,16 @@
+From: =?utf-8?B?6ZO26KGM6YCa55+l?= <no-reply@xn--bnak-5qa.example.net>
+To: user@corp.example.com
+Subject: =?utf-8?B?572R6ZO25a6J5YWo5Y2H57qn6YCa55+l?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <f536c1df5b3f8123e3@xn--bnak-5qa.example.net>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <no-reply@xn--bnak-5qa.example.net>
+
+<html><body>请访问 <a href="https://xn--bnak-5qa.example.net/auth?redirect=/account">网银登录</a> 完成升级。</body></html>

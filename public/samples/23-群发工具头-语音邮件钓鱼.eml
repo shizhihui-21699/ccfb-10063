@@ -1,0 +1,27 @@
+From: =?utf-8?B?5biC5Zy66YOo?= <mkt@corp.example.com>
+To: list@corp.example.com
+Subject: =?utf-8?B?5oKo5pyJ5LiA5Liq5pyq6K+76K+t6Z+z6YKu5Lu2?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <68610f3262ec63397c@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_a09ade3fcb5fe0af"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <mkt@bulk-mailer.evil.test>
+X-Mailer: SwiftMailer 6.0
+List-Unsubscribe: <http://bulk-mailer.evil.test/unsub>
+
+------=_Part_a09ade3fcb5fe0af
+Content-Type: text/plain; charset=utf-8
+
+语音邮件: http://phish-login.example.top/voicemail
+
+------=_Part_a09ade3fcb5fe0af
+Content-Type: text/html; charset=utf-8
+
+<a href="http://phish-login.example.top/voicemail?token=x">播放语音邮件</a>
+------=_Part_a09ade3fcb5fe0af--

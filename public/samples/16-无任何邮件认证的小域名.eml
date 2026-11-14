@@ -1,0 +1,13 @@
+From: "SmallCo Support" <support@smallco.example.io>
+To: user@corp.example.com
+Subject: Your SmallCo trial expires soon
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <9d69c60b750b7a6f0f@smallco.example.io>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Received: from mbx.smallco.example.io (mbx.smallco.example.io [192.0.2.200])
+	by edge.corp.example.com with ESMTP id NA1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <support@smallco.example.io>
+
+Your trial expires in 3 days. Renew at http://smallco.example.io/renew

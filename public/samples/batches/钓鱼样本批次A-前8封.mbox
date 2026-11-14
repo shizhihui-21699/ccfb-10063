@@ -1,0 +1,209 @@
+From admin@corp.example.com Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?6KGM5pS/6YOo?= <admin@corp.example.com>
+To: staff@corp.example.com
+Subject: =?utf-8?B?5a2j5bqm5L6L5Lya6YCa55+l44CQ6K+35p+l5pS244CR?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <007ff7e15a1d10b0ef@corp.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_24184854218796f1"
+Received: from mx1.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mailgw.internal.local with ESMTPS id BBB02;
+	Sat, 14 Nov 2026 17:27:03 GMT
+Received: from smtp.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mx1.corp.example.com with ESMTPS id AAA01;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <admin@corp.example.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=corp.example.com; s=selector1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=K/MVe3jy7bp7AKa9aKgLCWkwRAp/WecmDdf368Zz0/E=; x=1795282021;
+	b=YArzJ4mDR1hQDRnJZiXDSq7xogIjIjQc17CVUAZyZVcngieU8LKnpJBVARmsMuDskrYT7s
+	LvUAXjEhRQsEMlsrVuPmUOvA+77SJJzeYapg/tgZ6iDyEbXjIVsZsH7IIhC+NM+8jIES5d
+	hXaxrwII4oUuSV5A4JZhV7CxPAxEMLNT3pxpXJmmwE7UBtuHvKjrYMc+y5YFrwoaovyAc2
+	wEF2DZWsdixaI1g4IncQngNB8QDwHxeIcOzrcb+cYuT1Zx0s1VYsbkwKASP7B3yzIgjYHm
+	lr9o8wvN5MkoC4gYQuUdA/ifo/ffWfkBU0wQdx5A+V0GyJ7IzYiozBZIcoBcdA==
+
+------=_Part_24184854218796f1
+Content-Type: text/plain; charset=utf-8
+
+各位同事,
+
+下周一上午 10 点开季度例会,请提前准备部门汇报材料。
+
+行政部
+
+------=_Part_24184854218796f1
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>各位同事,</p><p>下周一上午 10 点开季度例会。</p><p>行政部</p></body></html>
+------=_Part_24184854218796f1--
+From estatement@bank.example.net Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?6ZO26KGM55S15a2Q6LSm5Y2V?= <estatement@bank.example.net>
+To: user@corp.example.com
+Subject: Your bank statement is ready
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <016071a84191ffedf8@bank.example.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_ecd60d75bc38aea0"
+Received: from mail.bank.example.net (mail.bank.example.net [198.51.100.40])
+	by edge.corp.example.com with ESMTPS id BK1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <estatement@bank.example.net>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bank.example.net; s=dkim;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=lL7eFxfPpsfSVhtsTVVMZ7dhpItGSt5X79Y/NP3J1TI=; x=1795282021;
+	b=CfSmG7vgD320f8RG54sI5BSGhPJLOdTGYMtHCslW3Ee/xN9F4GCBOA7tKcXE17Yf89FglA
+	5TBocgd8wZjT4Gldv/DM3QeKgX2AlQaVmQhX0p73QTvCDpZZTDmY6z4g6gG21w9MxlybmQ
+	tALEwaEi/BE3tpumufIiaEH7wSM6S/Q9AKaxAdoT0ubzLUCUd89oLiQVjex0mSNDsjkqRE
+	STVZ12uhlAsJXf6F01hAC/3H+acg28nBVDO8nCs7N7ZDxoDv/c0VoZRptO1jFAwUQAMxXo
+	kDwS7EIfwE5KazZIw/y5NMdBIa42ghKLnEEZkduHDx/D9q8p7G6SzAAtyyclQA==
+
+------=_Part_ecd60d75bc38aea0
+Content-Type: text/plain; charset=utf-8
+
+尊敬的客户,您的月度对账单见附件 PDF。
+
+------=_Part_ecd60d75bc38aea0
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjcKMSAwIG9iajw8IC9UeXBlIC9DYXRhbG9nID4+ZW5kb2JqCiUlRU9GIHNpbXVsYXRl
+ZCBpbnZvaWNlIHBkZiBjb250ZW50Cg==
+------=_Part_ecd60d75bc38aea0--
+From security@bank.example.net Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?5a6J5YWo5Lit5b+D?= <security@bank.example.net>
+To: user@corp.example.com
+Subject: =?utf-8?B?44CQ57Sn5oCl44CR5oKo55qE6ZO26KGM6LSm5oi35bey6KKr6ZmQ5Yi2LOivt+eri+WNs+mqjOivgQ==?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <0cf11fa7aac576585d@bank.example.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_5814d899d5588f4a"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <security@bank.example.net>
+X-Mailer: PHP/7.4.3
+
+------=_Part_5814d899d5588f4a
+Content-Type: text/plain; charset=utf-8
+
+您的账户存在异常,请立即验证:
+http://phish-login.example.top/verify?account=user
+
+------=_Part_5814d899d5588f4a
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>您的账户存在异常,<a href="http://phish-login.example.top/verify?account=user&token=abc123">点击立即验证</a></p></body></html>
+------=_Part_5814d899d5588f4a--
+From hotline.support88@gmail.com Sat 14 Nov 2026 17:27:01 GMT
+From: "service@bank.example.net" <hotline.support88@gmail.com>
+To: finance@corp.example.com
+Subject: =?utf-8?B?5LuY5qy+5L+h5oGv56Gu6K6k?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <19688b3ed71ef5a961@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <hotline.support88@gmail.com>
+
+财务您好,请将货款付至新账户,详情见附件。
+
+From ceo@corp.example.com Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?Q0VPIOW8oOS8nw==?= <ceo@corp.example.com>
+To: finance@corp.example.com
+Subject: =?utf-8?B?57Sn5oClOuWuieaOkuS4gOeslOmihOS7mOasvg==?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <bb8ef79b81471baa4a@corp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Reply-To: "CEO" <zhangwei.ceo1984@outlook.com>
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <ceo@bulk-mailer.evil.test>
+X-Priority: 1 (Highest)
+
+我在开会不方便接电话,你现在安排一笔 28 万预付款,回复邮件我发你账户。
+
+From it@corp.example.com Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?SVQg5pSv5oyB?= <it@corp.example.com>
+To: staff@corp.example.com
+Subject: 邮箱配额超限提醒
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <50eddb07d47e1a18ef@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_b72252962ea2232c"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <it@bulk-mailer.evil.test>
+
+------=_Part_b72252962ea2232c
+Content-Type: text/plain; charset=utf-8
+
+登录: https://mail.corp.example.com/owa/login (实际被替换)
+
+------=_Part_b72252962ea2232c
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>请通过以下入口登录系统:</p><p><a href="http://phish-login.example.top/login">https://mail.corp.example.com/owa/login</a></p><p>或者 <a href="https://xn--bnak-5qa.example.net/login">www.bank.example.net</a></p><p><a href="https://invoice-cdn.example.xyz/r?url=https://corp.example.com">工单系统</a></p></body></html>
+------=_Part_b72252962ea2232c--
+From no-reply@xn--bnak-5qa.example.net Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?6ZO26KGM6YCa55+l?= <no-reply@xn--bnak-5qa.example.net>
+To: user@corp.example.com
+Subject: =?utf-8?B?572R6ZO25a6J5YWo5Y2H57qn6YCa55+l?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <f536c1df5b3f8123e3@xn--bnak-5qa.example.net>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <no-reply@xn--bnak-5qa.example.net>
+
+<html><body>请访问 <a href="https://xn--bnak-5qa.example.net/auth?redirect=/account">网银登录</a> 完成升级。</body></html>
+From hr@corp.example.com Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?5Lq65LqL6YOo?= <hr@corp.example.com>
+To: staff@corp.example.com
+Subject: =?utf-8?B?MTHmnIjlt6XotYTmmI7nu4booago5ZCv55So5a6P5p+l55yLKQ==?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <51ed6dfc2acea560f9@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_5a329702dba7d695"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <hr@bulk-mailer.evil.test>
+
+------=_Part_5a329702dba7d695
+Content-Type: text/plain; charset=utf-8
+
+工资明细见附件,启用宏后可查看完整内容。
+
+------=_Part_5a329702dba7d695
+Content-Type: application/msword; name="11月工资表.doc"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="11月工资表.doc"
+
+0M8R4KGxGuENCgBUaGlzIGlzIGEgc2ltdWxhdGVkIE9MRSBjb21wb3VuZCBkb2MuDQpfVkJBX1BS
+T0pFQ1QNClN1YiBBdXRvT3BlbigpDQogIENyZWF0ZU9iamVjdCgiV1NjcmlwdC5TaGVsbCIpLlJ1
+biAicG93ZXJzaGVsbCAtZW5jIFNRQkZBRmdBIg0KRW5kIFN1Yg0K5URoLmRvYw==
+------=_Part_5a329702dba7d695--

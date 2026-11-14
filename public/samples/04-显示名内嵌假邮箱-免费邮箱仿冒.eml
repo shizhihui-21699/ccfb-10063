@@ -1,0 +1,16 @@
+From: "service@bank.example.net" <hotline.support88@gmail.com>
+To: finance@corp.example.com
+Subject: =?utf-8?B?5LuY5qy+5L+h5oGv56Gu6K6k?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <19688b3ed71ef5a961@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <hotline.support88@gmail.com>
+
+财务您好,请将货款付至新账户,详情见附件。

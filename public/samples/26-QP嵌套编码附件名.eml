@@ -1,0 +1,49 @@
+From: =?utf-8?B?6LSm5Y2V57O757uf?= <bill@corp.example.com>
+To: user@corp.example.com
+Subject: =?utf-8?Q?=E8=B4=A6=E5=8D=95?= =?utf-8?B?PT91dGYtOD9RPz1FNT1CNT04Qz1FNT1BNT05Nz1FND1COD1BND1FNj1BQz1BMT1FNz05QT04ND1FND1COD1CQj1FOT1BMj05OD89?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <f725a42864602f09fc@corp.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_1e1107e1614a6fce"
+Received: from mx1.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mailgw.internal.local with ESMTPS id BBB02;
+	Sat, 14 Nov 2026 17:27:03 GMT
+Received: from smtp.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mx1.corp.example.com with ESMTPS id AAA01;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <bill@corp.example.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=corp.example.com; s=selector1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=qpqOYYxP6ue5nvCRx5ZpER1TvT8S3If3DN6Pgw1ooqE=; x=1795282021;
+	b=tf8+iZzwj/ywf0TXl5/n9LQNAKs3U0kkr2+UUnHfS1ofgQZAD8+G11dvaT5po3a6euwzwa
+	zQFeSLshbsuso/uM2v+Qjn1maGIayKDTtt6CBjd38W6EyR5tfX0GBcZCpyR86uuAB+On+4
+	OIXIjWDOPM6POyoToB4/UyIa2KvtC3WhqTVqLTQa0toE2p6c/XDiT3KQvN1UoaTPj69DhR
+	MCvsCm0CjLztF3/ws1R0l31kPAIxRv0pFZPNdPoPpzNOMQTQHa8gMvXjcNVxjnZITP11ZM
+	591HmwPtLc0wWc3PggaO9cgN1YwAI5Vu8GQC1kdVJhYRvRftnLD0qHNwvLLURw==
+
+------=_Part_1e1107e1614a6fce
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=E8=B4=A6=E5=8D=95=E6=98=8E=E7=BB=86=E8=A7=81=E9=99=84=E4=BB=B6,=E8=AF=B=
+7=E6=A0=B8=E5=AF=B9=E3=80=82
+------=_Part_1e1107e1614a6fce
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;
+	filename*0*=utf-8''11%E6%9C%88%;
+	filename*1*=E8%B4%A6%E5%;
+	filename*2*=8D%95(%E6%98;
+	filename*3*=%8E%E7%BB%86;
+	filename*4*=).xlsx
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename*0*=utf-8''11%E6%9C%88%;
+	filename*1*=E8%B4%A6%E5%;
+	filename*2*=8D%95(%E6%98;
+	filename*3*=%8E%E7%BB%86;
+	filename*4*=).xlsx
+
+UEsDBBQAAAAAAAAAAACHVVqRCgAAAAoAAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbGZha2Ugb294
+bWxQSwMEFAAAAAAAAAAAAB3whI0SAAAAEgAAAA8AAAB4bC93b3JrYm9vay54bWxtYWNyb1NldHRp
+bmdzIGZha2VQSwECFAAUAAAAAAAAAAAAh1VakQoAAAAKAAAAEwAAAAAAAAAAAAAAAAAAAAAAW0Nv
+bnRlbnRfVHlwZXNdLnhtbFBLAQIUABQAAAAAAAAAAAAd8ISNEgAAABIAAAAPAAAAAAAAAAAAAAAA
+ADsAAAB4bC93b3JrYm9vay54bWxQSwUGAAAAAAIAAgB+AAAAegAAAAAA
+------=_Part_1e1107e1614a6fce--

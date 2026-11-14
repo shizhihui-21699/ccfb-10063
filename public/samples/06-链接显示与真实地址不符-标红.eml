@@ -1,0 +1,25 @@
+From: =?utf-8?B?SVQg5pSv5oyB?= <it@corp.example.com>
+To: staff@corp.example.com
+Subject: 邮箱配额超限提醒
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <50eddb07d47e1a18ef@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_b72252962ea2232c"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <it@bulk-mailer.evil.test>
+
+------=_Part_b72252962ea2232c
+Content-Type: text/plain; charset=utf-8
+
+登录: https://mail.corp.example.com/owa/login (实际被替换)
+
+------=_Part_b72252962ea2232c
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>请通过以下入口登录系统:</p><p><a href="http://phish-login.example.top/login">https://mail.corp.example.com/owa/login</a></p><p>或者 <a href="https://xn--bnak-5qa.example.net/login">www.bank.example.net</a></p><p><a href="https://invoice-cdn.example.xyz/r?url=https://corp.example.com">工单系统</a></p></body></html>
+------=_Part_b72252962ea2232c--

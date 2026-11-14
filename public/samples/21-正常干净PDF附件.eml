@@ -1,0 +1,32 @@
+From: =?utf-8?B?5L6b5bqU5ZWG?= <vendor@shop.example.org>
+To: buyer@corp.example.com
+Subject: =?utf-8?B?5oql5Lu35Y2VIFBERg==?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <8f2c68e40edb96c9d6@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2644fa755664641e"
+Received: from smtp.shop.example.org (smtp.shop.example.org [192.0.2.50])
+	by edge.corp.example.com with ESMTPS id SP1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <vendor@shop.example.org>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.example.org; s=s1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=iYP2XQoM41QX7k4lFlhFBmZNZ7q4/IrpP8TyfyIKOLc=; x=1795282021;
+	b=yuK0Qs6+q3cKFu7nUvg4BeECaawajPo+NdA+TsXhNC5gFY2i7itjHr5nGiGL9RoNejKkgk
+	ydyWe/QgAPG+WWY2myZZ9/IerQ9vvnlV4ac9F1A9xKipgsD0hlUMAQyE+uu6dsxTIKYSxl
+	bD8HUttWzZiNfuzB9FfB/w9l8kApvu3NwWLjtBNImtwiO+oL96eMAHi0nAAcVCyd042H16
+	GBJg5XUe/WUcD+u5pqWeXMGYVoKP8LXZZ3cXE1flYXEkLFvgW061Ubtj5vbJLL9By6ht3r
+	y8TJQ9ugLEJOJBH9V3S411IbSqU3mzf2J9laWWAawhwsFoM32LPVTK0xvsRXAQ==
+
+------=_Part_2644fa755664641e
+Content-Type: text/plain; charset=utf-8
+
+报价单见附件。
+
+------=_Part_2644fa755664641e
+Content-Type: application/pdf; name="quote.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="quote.pdf"
+
+JVBERi0xLjcKMSAwIG9iajw8IC9UeXBlIC9DYXRhbG9nID4+ZW5kb2JqCiUlRU9GIHNpbXVsYXRl
+ZCBpbnZvaWNlIHBkZiBjb250ZW50Cg==
+------=_Part_2644fa755664641e--

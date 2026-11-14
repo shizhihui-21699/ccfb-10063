@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-11-14T17:27:01.000Z",
+  "count": 26,
+  "files": [
+    "01-正常企业邮件-三认证全过.eml",
+    "02-正常银行账单-DMARC-reject.eml",
+    "03-伪造银行发件人-SPF-DMARC双失败.eml",
+    "04-显示名内嵌假邮箱-免费邮箱仿冒.eml",
+    "05-Reply-To劫持-BEC商务诈骗.eml",
+    "06-链接显示与真实地址不符-标红.eml",
+    "07-punycode同形异义域名.eml",
+    "08-带VBA宏的Word文档.eml",
+    "09-双扩展名发票pdf-exe.eml",
+    "10-深层编码嵌套-GBK-Big5-RFC2231.eml",
+    "11-message-rfc822嵌套转发-藏载荷.eml",
+    "12-五层multipart深嵌套.eml",
+    "13-DKIM签名已过期.eml",
+    "14-DKIM签名被篡改-验证失败.eml",
+    "15-SPF-softfail-DMARC-none.eml",
+    "16-无任何邮件认证的小域名.eml",
+    "17-脚本附件js-vbs.eml",
+    "18-ZIP内嵌exe和路径穿越.eml",
+    "19-LNK快捷方式和bat.eml",
+    "20-多语种日文韩文编码-正常.eml",
+    "21-正常干净PDF附件.eml",
+    "22-无宏旧版doc-低风险.eml",
+    "23-群发工具头-语音邮件钓鱼.eml",
+    "24-Received时间倒流.eml",
+    "25-IP直连和@混淆URL.eml",
+    "26-QP嵌套编码附件名.eml"
+  ],
+  "mbox": [
+    "钓鱼样本批次A-前8封.mbox",
+    "钓鱼样本批次B-10封.mbox"
+  ],
+  "dkimKeys": "dkim-keys.json"
+}

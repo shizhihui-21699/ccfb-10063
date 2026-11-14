@@ -1,0 +1,32 @@
+From: =?shift_jis?B?jZGN246Wi8aVlA==?= <global@corp.example.com>
+To: partner@corp.example.com
+Subject: =?shift_jis?B?jF+W8Y1YkFaCzIKokm2C54K5?= / =?euc-kr?B?sOi+4CCwu73FIL7Is7s=?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <d58bbd8c16f0443165@corp.example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_99332f44f99ac173"
+Received: from mx1.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mailgw.internal.local with ESMTPS id BBB02;
+	Sat, 14 Nov 2026 17:27:03 GMT
+Received: from smtp.corp.example.com (mx1.corp.example.com [203.0.113.10])
+	by mx1.corp.example.com with ESMTPS id AAA01;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <global@corp.example.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=corp.example.com; s=selector1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=RUu9mWyB389jyId2b2PNOB90RMVcOveaDLYrhrwcYEA=; x=1795282021;
+	b=aVtPAxm4tAPqUKIYp9+C2A6AmCwFLEmk6OmNi8Q3Yn5oAfCUbeDGS8BQae20Eg0UoaPuBR
+	IcU+XpzhuwIoPWoYoHkxKVnm979GXA6NEo2ukDJe9XNeiI3cp50MfUoZDDFgaVxxQ+LWli
+	1St+MTWXW6EwGKxjJpPTCtH2GhxQB5tOS1CTdoGlc0QQBOoTF0sUrUEDfY0qyD5vQmcMAZ
+	O86N82Ruo1z/SG8Da352HJcUYNp9rSrd8Olmq+hRp1Oeas1mdLlUj+AaickZxyuBhywqWm
+	xFYBM7PwoEo/mp90VPsrmZxTusUT9LtCAv5gu0YP/UeODH6QdQDAIRxn9en5tQ==
+
+------=_Part_99332f44f99ac173
+Content-Type: text/plain; charset="shift_jis"
+Content-Transfer-Encoding: base64
+
+l4iPVILMjF+W8Y1YkFaCyYLCgqKCxIKyim2URoKtgr6Cs4KigUI=
+------=_Part_99332f44f99ac173
+Content-Type: text/html; charset=utf-8
+
+<p>来週の契約更新についてご確認ください。</p>
+------=_Part_99332f44f99ac173--

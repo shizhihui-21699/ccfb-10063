@@ -1,0 +1,36 @@
+From: =?utf-8?B?56aP5Yip5LiT5ZGY?= <gift@shop.example.org>
+To: staff@corp.example.com
+Subject: =?utf-8?B?5ZGY5bel56aP5Yip6aKG5Y+W6YCa55+l?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <ee5dcde540a6930577@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2e5f7bc9995172e4"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <gift@bulk-mailer.evil.test>
+
+------=_Part_2e5f7bc9995172e4
+Content-Type: multipart/mixed; boundary="----=_Part_5dc0a8425ab2f586"
+
+------=_Part_5dc0a8425ab2f586
+Content-Type: multipart/mixed; boundary="----=_Part_45564ed627417a61"
+
+------=_Part_45564ed627417a61
+Content-Type: multipart/mixed; boundary="----=_Part_552e8f5703ed26b4"
+
+------=_Part_552e8f5703ed26b4
+Content-Type: multipart/mixed; boundary="----=_Part_f6703626354a47d8"
+
+------=_Part_f6703626354a47d8
+Content-Type: text/plain; charset=utf-8
+
+深层文本:点击 http://phish-login.example.top/deep 领取奖励。
+------=_Part_f6703626354a47d8--
+------=_Part_552e8f5703ed26b4--
+------=_Part_45564ed627417a61--
+------=_Part_5dc0a8425ab2f586--
+------=_Part_2e5f7bc9995172e4--

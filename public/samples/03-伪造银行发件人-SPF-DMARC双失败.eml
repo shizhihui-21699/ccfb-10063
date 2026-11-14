@@ -1,0 +1,27 @@
+From: =?utf-8?B?5a6J5YWo5Lit5b+D?= <security@bank.example.net>
+To: user@corp.example.com
+Subject: =?utf-8?B?44CQ57Sn5oCl44CR5oKo55qE6ZO26KGM6LSm5oi35bey6KKr6ZmQ5Yi2LOivt+eri+WNs+mqjOivgQ==?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <0cf11fa7aac576585d@bank.example.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_5814d899d5588f4a"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <security@bank.example.net>
+X-Mailer: PHP/7.4.3
+
+------=_Part_5814d899d5588f4a
+Content-Type: text/plain; charset=utf-8
+
+您的账户存在异常,请立即验证:
+http://phish-login.example.top/verify?account=user
+
+------=_Part_5814d899d5588f4a
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>您的账户存在异常,<a href="http://phish-login.example.top/verify?account=user&token=abc123">点击立即验证</a></p></body></html>
+------=_Part_5814d899d5588f4a--

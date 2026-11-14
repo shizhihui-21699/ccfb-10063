@@ -1,0 +1,32 @@
+From: =?utf-8?B?5ZCI5ZCM566h55CG?= <contracts@shop.example.org>
+To: legal@corp.example.com
+Subject: Contract renewal
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <8212ad5945dd6c06d3@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_3f8f6188e63299ed"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <contracts@shop.example.org>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.example.org; s=s1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=9lLq8IHr9Gf7McfgQUmnhu6+tHQc+ZtFd56MDgAhznM=; x=1794673621;
+	b=cbseEBTe1484rqZ/0mU+bj+ye9xCwhLZ/MbtBMldbMj0leJcIPltdbJU7MTBPueeJ3HIHD
+	mdf3Uu0p81/5p9g/Kr7BwdVtRfCU5uHEoHjHhg1mV3ROUxGEDnass47esA17w9Up/TtwPX
+	xjeLPGpXCycbMTyPuakU+/ZbbWX6sQnL9xMgN9nYZjHofoHsX3aMEQIEVRraPZ2lSr2D2c
+	csidKx9PLs4n/qJ+qGqBNFJS+HAA2xcWo1JXX7QHJIuCCx8EXR8HrtNzb8ny12hRTnnNqV
+	4ulors9Chzzai/+boe/kFw6ZJ6LnbSCPQt99og3FksBFFWMhvZER0bxPFbOCCQ==
+
+------=_Part_3f8f6188e63299ed
+Content-Type: text/plain; charset=utf-8
+
+请查收合同。
+
+------=_Part_3f8f6188e63299ed
+Content-Type: text/html; charset=utf-8
+
+<p>Please find the contract.</p>
+------=_Part_3f8f6188e63299ed--

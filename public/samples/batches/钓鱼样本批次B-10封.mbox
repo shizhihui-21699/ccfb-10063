@@ -1,0 +1,384 @@
+From noreply@invoice.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?55S15a2Q5Y+R56Wo5bmz5Y+w?= <noreply@invoice.example.org>
+To: ap@corp.example.com
+Subject: =?utf-8?B?5oKo55qE55S15a2Q5Y+R56Wo5bey5byA5YW3?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <5421da405ac23a036d@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_72a8b3f3b649a5ff"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <noreply@bulk-mailer.evil.test>
+
+------=_Part_72a8b3f3b649a5ff
+Content-Type: text/plain; charset=utf-8
+
+发票文件见附件。
+
+------=_Part_72a8b3f3b649a5ff
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="发票_202611.pdf.exe"
+
+TVqQAANzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVj
+b2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcg
+KyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwg
+RG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0
+ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3Mg
+aW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAt
+ZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJp
+bmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9h
+ZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11
+bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmlu
+Z3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRp
+bCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRT
+dHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5
+bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBz
+aW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0
+cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0
+dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxv
+YWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUg
+cGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRl
+LiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2Rl
+IHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBj
+ZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93
+bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQg
+UEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5z
+aWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVj
+b2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcg
+KyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwg
+RG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0
+ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3Mg
+aW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAt
+ZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJp
+bmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9h
+ZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11
+bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmlu
+Z3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRp
+bCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5bG9hZCwgRG93bmxvYWRT
+dHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiBzaW11bGF0ZWQgUEUgcGF5
+bG9hZCwgRG93bmxvYWRTdHJpbmcgKyBjZXJ0dXRpbCAtZGVjb2RlIHN0cmluZ3MgaW5zaWRlLiA=
+
+------=_Part_72a8b3f3b649a5ff--
+From chen@shop.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?big5?Q?=B1=C4=C1=CA=B3=A1=B3=AF=B8g=B2z?= <chen@shop.example.org>
+To: contract@corp.example.com
+Subject: =?big5?B?w/ap87HEwcqmWKZQrdetcaq6vVS7e6jnKMFjxekp?= =?utf-8?B?PT9nYms/Qj9zc201dXJyUHpheTR2YnorPz0=?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <30cd48bce87ec3453a@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_06653d2ea0e2211e"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <chen@bulk-mailer.evil.test>
+
+------=_Part_06653d2ea0e2211e
+Content-Type: text/plain; charset="gbk"
+Content-Transfer-Encoding: quoted-printable
+
+=BA=CF=CD=AC=D0=DE=B6=A9=B0=E6=BC=FB=B8=BD=BC=FE,=C7=EB=BE=A1=BF=EC=C8=B=
+7=C8=CF=BB=D8=B4=AB=A1=A3
+------=_Part_06653d2ea0e2211e
+Content-Type: application/vnd.ms-word.document.macroEnabled.12;
+	filename*0*=utf-8''%E6%8E%A1%E8;
+	filename*1*=%B3%BC%E5%90;
+	filename*2*=%88%E5%90%8C;
+	filename*3*=_%E4%BF%AE%E;
+	filename*4*=8%A8%82%E7%8;
+	filename*5*=9%88(%E6%9C%;
+	filename*6*=80%E7%B5%82%;
+	filename*7*=E7%A8%BF).do;
+	filename*8*=cm
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename*0*=utf-8''%E6%8E%A1%E8;
+	filename*1*=%B3%BC%E5%90;
+	filename*2*=%88%E5%90%8C;
+	filename*3*=_%E4%BF%AE%E;
+	filename*4*=8%A8%82%E7%8;
+	filename*5*=9%88(%E6%9C%;
+	filename*6*=80%E7%B5%82%;
+	filename*7*=E7%A8%BF).do;
+	filename*8*=cm
+
+0M8R4KGxGuENCgBUaGlzIGlzIGEgc2ltdWxhdGVkIE9MRSBjb21wb3VuZCBkb2MuDQpfVkJBX1BS
+T0pFQ1QNClN1YiBBdXRvT3BlbigpDQogIENyZWF0ZU9iamVjdCgiV1NjcmlwdC5TaGVsbCIpLlJ1
+biAicG93ZXJzaGVsbCAtZW5jIFNRQkZBRmdBIg0KRW5kIFN1Yg0KCAxE9i5kb2Nt
+------=_Part_06653d2ea0e2211e--
+From colleague@shop.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?5ZCM5LqL6L2s5Y+R?= <colleague@shop.example.org>
+To: victim@corp.example.com
+Subject: =?utf-8?B?6L2s5Y+ROue9kemTtuezu+e7n+WNh+e6pw==?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <297280379b41f15576@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_40fc59cfa65fd91e"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <colleague@bulk-mailer.evil.test>
+
+------=_Part_40fc59cfa65fd91e
+Content-Type: text/plain; charset=utf-8
+
+看下这封银行邮件。
+
+------=_Part_40fc59cfa65fd91e
+Content-Type: message/rfc822
+
+From: "银行客服" <service@bank.example.net>
+To: victim@corp.example.com
+Subject: 网银系统升级
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <0a0bbd4f7fafd353d6@bank.example.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_5baba900faaf4731"
+
+------=_Part_5baba900faaf4731
+Content-Type: text/html; charset=utf-8
+
+<a href="http://secure-bank.example.top/wf">网银升级</a> 请输入账号密码。
+------=_Part_5baba900faaf4731
+Content-Type: application/zip; name="update.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="update.zip"
+
+UEsDBBQAAAAAAAAAAABEF2WQBwAAAAcAAAAKAAAAcmVhZG1lLnR4dGludm9pY2VQSwMEFAAAAAAA
+AAAAAA8dd+whAAAAIQAAAAoAAABsb2FkZXIuZXhlTVogZmFrZSBwZSBEb3dubG9hZFN0cmluZyBw
+YXlsb2FkUEsBAhQAFAAAAAAAAAAAAEQXZZAHAAAABwAAAAoAAAAAAAAAAAAAAAAAAAAAAHJlYWRt
+ZS50eHRQSwECFAAUAAAAAAAAAAAADx137CEAAAAhAAAACgAAAAAAAAAAAAAAAAAvAAAAbG9hZGVy
+LmV4ZVBLBQYAAAAAAgACAHAAAAB4AAAAAAA=
+------=_Part_5baba900faaf4731--
+------=_Part_40fc59cfa65fd91e--
+From gift@shop.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?56aP5Yip5LiT5ZGY?= <gift@shop.example.org>
+To: staff@corp.example.com
+Subject: =?utf-8?B?5ZGY5bel56aP5Yip6aKG5Y+W6YCa55+l?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <ee5dcde540a6930577@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2e5f7bc9995172e4"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <gift@bulk-mailer.evil.test>
+
+------=_Part_2e5f7bc9995172e4
+Content-Type: multipart/mixed; boundary="----=_Part_5dc0a8425ab2f586"
+
+------=_Part_5dc0a8425ab2f586
+Content-Type: multipart/mixed; boundary="----=_Part_45564ed627417a61"
+
+------=_Part_45564ed627417a61
+Content-Type: multipart/mixed; boundary="----=_Part_552e8f5703ed26b4"
+
+------=_Part_552e8f5703ed26b4
+Content-Type: multipart/mixed; boundary="----=_Part_f6703626354a47d8"
+
+------=_Part_f6703626354a47d8
+Content-Type: text/plain; charset=utf-8
+
+深层文本:点击 http://phish-login.example.top/deep 领取奖励。
+------=_Part_f6703626354a47d8--
+------=_Part_552e8f5703ed26b4--
+------=_Part_45564ed627417a61--
+------=_Part_5dc0a8425ab2f586--
+------=_Part_2e5f7bc9995172e4--
+
+From contracts@shop.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?5ZCI5ZCM566h55CG?= <contracts@shop.example.org>
+To: legal@corp.example.com
+Subject: Contract renewal
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <8212ad5945dd6c06d3@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_3f8f6188e63299ed"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <contracts@shop.example.org>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.example.org; s=s1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=9lLq8IHr9Gf7McfgQUmnhu6+tHQc+ZtFd56MDgAhznM=; x=1794673621;
+	b=cbseEBTe1484rqZ/0mU+bj+ye9xCwhLZ/MbtBMldbMj0leJcIPltdbJU7MTBPueeJ3HIHD
+	mdf3Uu0p81/5p9g/Kr7BwdVtRfCU5uHEoHjHhg1mV3ROUxGEDnass47esA17w9Up/TtwPX
+	xjeLPGpXCycbMTyPuakU+/ZbbWX6sQnL9xMgN9nYZjHofoHsX3aMEQIEVRraPZ2lSr2D2c
+	csidKx9PLs4n/qJ+qGqBNFJS+HAA2xcWo1JXX7QHJIuCCx8EXR8HrtNzb8ny12hRTnnNqV
+	4ulors9Chzzai/+boe/kFw6ZJ6LnbSCPQt99og3FksBFFWMhvZER0bxPFbOCCQ==
+
+------=_Part_3f8f6188e63299ed
+Content-Type: text/plain; charset=utf-8
+
+请查收合同。
+
+------=_Part_3f8f6188e63299ed
+Content-Type: text/html; charset=utf-8
+
+<p>Please find the contract.</p>
+------=_Part_3f8f6188e63299ed--
+From care@shop.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?5ZWG5Z+O5a6i5pyN?= <care@shop.example.org>
+To: user@corp.example.com
+Subject: Order confirmation
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <86f8888feb8c463059@shop.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_7db7c740c505feb5"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <care@shop.example.org>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shop.example.org; s=s1;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=OnG5fpSyYIt2InU/cKRiF+DnEs0n/abK7jKXtVui5OY=; x=1795282021;
+	b=JoYKXkUpQgP0spyxwoI7JTfQFtCEWuxLVGOZ9PmWkDRyhdkcmnCR9NPMG0CP0EJCguDQ1S
+	PQ1/qZrjhdysuHLpDeWYWyx9I2EmKYmsWrBTFJD+8T/huSUExb0gBQ6i5PY10Tyb2a9vjK
+	NGnFV8UahWU7rs4BHgAAQnSiMBIb139X2G6oW/Hc1vfHQ00EV1dFmdquzOtf+6xKdnZiFn
+	5/VgfCrazMbpjXirXAI9jvAIKtFvrpY4vsR7e2rFQLDSUX9GF3G85nvs8sKf5LcWq9EbI6
+	Lun8HCIHBmwQDxtuDgR951H/krpv83YJkDKBt4RBjbEHi+rkllOdC4A8HYUxeQ==
+
+------=_Part_7db7c740c505feb5
+Content-Type: text/plain; charset=utf-8
+
+原始内容
+
+------=_Part_7db7c740c505feb5
+Content-Type: text/html; charset=utf-8
+
+<p>tampered body with http://phish-login.example.top/x</p>
+------=_Part_7db7c740c505feb5--
+From sale@shop.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?5L+D6ZSA6YCa55+l?= <sale@shop.example.org>
+To: user@corp.example.com
+Subject: =?utf-8?B?6ZmQ5pe25L+D6ZSA5pyA5ZCO5LiA5aSp?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <b021cccc1da3c7071d@shop.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Received: from unknown-sender.example.xyz (unknown-hosting.evil.test [45.9.148.91])
+	by edge.corp.example.com with ESMTP id SF1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <sale@shop.example.org>
+
+限时促销,点击 http://invoice-cdn.example.xyz/promo 查看。
+
+From support@smallco.example.io Sat 14 Nov 2026 17:27:01 GMT
+From: "SmallCo Support" <support@smallco.example.io>
+To: user@corp.example.com
+Subject: Your SmallCo trial expires soon
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <9d69c60b750b7a6f0f@smallco.example.io>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Received: from mbx.smallco.example.io (mbx.smallco.example.io [192.0.2.200])
+	by edge.corp.example.com with ESMTP id NA1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <support@smallco.example.io>
+
+Your trial expires in 3 days. Renew at http://smallco.example.io/renew
+
+From fin@corp.example.com Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?6LSi5Yqh57O757uf?= <fin@corp.example.com>
+To: staff@corp.example.com
+Subject: =?utf-8?B?5oql6ZSA57O757uf5Y2H57qn6ISa5pysKOivt+i/kOihjCk=?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <a0791ac38605689ccd@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_8ae008ed73e751d2"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <fin@bulk-mailer.evil.test>
+
+------=_Part_8ae008ed73e751d2
+Content-Type: text/plain; charset=utf-8
+
+运行附件脚本完成升级。
+
+------=_Part_8ae008ed73e751d2
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="update.js"
+
+dmFyIHcgPSBuZXcgQWN0aXZlWE9iamVjdCgiV1NjcmlwdC5TaGVsbCIpOwp3LkV4ZWMoInBvd2Vy
+c2hlbGwgLWVuYyBTUUJGQUZnQSIpOwovLyBGcm9tQmFzZTY0U3RyaW5nIGRvd25sb2FkZXIK
+------=_Part_8ae008ed73e751d2
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="fix.vbs"
+
+U2V0IHggPSBDcmVhdGVPYmplY3QoIldTY3JpcHQuU2hlbGwiKQp4LlJ1biAiY21kLmV4ZSAvYyBj
+ZXJ0dXRpbCAtZGVjb2RlIGM6XHQuYjY0IGM6XHQuZXhlIgpBdXRvT3BlbiBzdHViCg==
+------=_Part_8ae008ed73e751d2--
+From fapiao@shop.example.org Sat 14 Nov 2026 17:27:01 GMT
+From: =?utf-8?B?5Y+R56Wo5pyN5Yqh?= <fapiao@shop.example.org>
+To: ap@corp.example.com
+Subject: =?utf-8?B?MTHmnIjlj5HnpajmiZPljIXmlofku7Y=?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <a595e859dbad5a538a@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_0c2160853be25b85"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <fapiao@bulk-mailer.evil.test>
+
+------=_Part_0c2160853be25b85
+Content-Type: text/plain; charset=utf-8
+
+附件为压缩包。
+
+------=_Part_0c2160853be25b85
+Content-Type: application/zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoices.zip"
+
+UEsDBBQAAAAAAAAAAADrVVOWJAAAACQAAAAQAAAA5Y+R56Wo6K+05piOLnR4dOivt+i/kOihjOaX
+gei+ueeahOeoi+W6j+aJk+W8gOWPkeelqFBLAwQUAAAAAAAAAAAAKP2ikoYDAACGAwAAEwAAAOWP
+keelqOafpeeci+WZqC5leGVNWiBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBw
+YXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3du
+bG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBw
+b3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1l
+bmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXls
+b2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9h
+ZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dl
+cnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMg
+ZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2Fk
+ICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0
+cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNo
+ZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFr
+ZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBE
+b3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmlu
+ZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxs
+IC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBw
+YXlsb2FkIFBLAwQUAAAAAAAAAAAAMJo41xkAAAAZAAAAJAAAAC4uLy4uLy4uLy4uL1dpbmRvd3Mv
+VGVtcC9iYWNrZG9vci5qc1dTY3JpcHQuU2hlbGwgcnVuIGNtZC5leGVQSwECFAAUAAAAAAAAAAAA
+61VTliQAAAAkAAAAEAAAAAAAAAAAAAAAAAAAAAAA5Y+R56Wo6K+05piOLnR4dFBLAQIUABQAAAAA
+AAAAAAAo/aKShgMAAIYDAAATAAAAAAAAAAAAAAAAAFIAAADlj5Hnpajmn6XnnIvlmaguZXhlUEsB
+AhQAFAAAAAAAAAAAADCaONcZAAAAGQAAACQAAAAAAAAAAAAAAAAACQQAAC4uLy4uLy4uLy4uL1dp
+bmRvd3MvVGVtcC9iYWNrZG9vci5qc1BLBQYAAAAAAwADANEAAABkBAAAAAA=
+------=_Part_0c2160853be25b85--

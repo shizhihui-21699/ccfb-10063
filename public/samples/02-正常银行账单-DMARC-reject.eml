@@ -1,0 +1,32 @@
+From: =?utf-8?B?6ZO26KGM55S15a2Q6LSm5Y2V?= <estatement@bank.example.net>
+To: user@corp.example.com
+Subject: Your bank statement is ready
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <016071a84191ffedf8@bank.example.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_ecd60d75bc38aea0"
+Received: from mail.bank.example.net (mail.bank.example.net [198.51.100.40])
+	by edge.corp.example.com with ESMTPS id BK1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <estatement@bank.example.net>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bank.example.net; s=dkim;
+	h=from:to:subject:date:message-id:mime-version:content-type; bh=lL7eFxfPpsfSVhtsTVVMZ7dhpItGSt5X79Y/NP3J1TI=; x=1795282021;
+	b=CfSmG7vgD320f8RG54sI5BSGhPJLOdTGYMtHCslW3Ee/xN9F4GCBOA7tKcXE17Yf89FglA
+	5TBocgd8wZjT4Gldv/DM3QeKgX2AlQaVmQhX0p73QTvCDpZZTDmY6z4g6gG21w9MxlybmQ
+	tALEwaEi/BE3tpumufIiaEH7wSM6S/Q9AKaxAdoT0ubzLUCUd89oLiQVjex0mSNDsjkqRE
+	STVZ12uhlAsJXf6F01hAC/3H+acg28nBVDO8nCs7N7ZDxoDv/c0VoZRptO1jFAwUQAMxXo
+	kDwS7EIfwE5KazZIw/y5NMdBIa42ghKLnEEZkduHDx/D9q8p7G6SzAAtyyclQA==
+
+------=_Part_ecd60d75bc38aea0
+Content-Type: text/plain; charset=utf-8
+
+尊敬的客户,您的月度对账单见附件 PDF。
+
+------=_Part_ecd60d75bc38aea0
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjcKMSAwIG9iajw8IC9UeXBlIC9DYXRhbG9nID4+ZW5kb2JqCiUlRU9GIHNpbXVsYXRl
+ZCBpbnZvaWNlIHBkZiBjb250ZW50Cg==
+------=_Part_ecd60d75bc38aea0--

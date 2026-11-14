@@ -1,0 +1,13 @@
+From: =?utf-8?B?5L+D6ZSA6YCa55+l?= <sale@shop.example.org>
+To: user@corp.example.com
+Subject: =?utf-8?B?6ZmQ5pe25L+D6ZSA5pyA5ZCO5LiA5aSp?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <b021cccc1da3c7071d@shop.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Received: from unknown-sender.example.xyz (unknown-hosting.evil.test [45.9.148.91])
+	by edge.corp.example.com with ESMTP id SF1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <sale@shop.example.org>
+
+限时促销,点击 http://invoice-cdn.example.xyz/promo 查看。

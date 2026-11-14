@@ -1,0 +1,50 @@
+From: =?utf-8?B?5Y+R56Wo5pyN5Yqh?= <fapiao@shop.example.org>
+To: ap@corp.example.com
+Subject: =?utf-8?B?MTHmnIjlj5HnpajmiZPljIXmlofku7Y=?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <a595e859dbad5a538a@evil.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_0c2160853be25b85"
+Received: from edge.corp.example.com (edge.corp.example.com [10.0.0.1])
+	by mailgw.internal.local with ESMTPS id EV2;
+	Sat, 14 Nov 2026 17:27:04 GMT
+Received: from bulk-mailer.evil.test (bulk-mailer.evil.test [45.9.148.77])
+	by edge.corp.example.com with ESMTP id EV1;
+	Sat, 14 Nov 2026 17:27:01 GMT
+Return-Path: <fapiao@bulk-mailer.evil.test>
+
+------=_Part_0c2160853be25b85
+Content-Type: text/plain; charset=utf-8
+
+附件为压缩包。
+
+------=_Part_0c2160853be25b85
+Content-Type: application/zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoices.zip"
+
+UEsDBBQAAAAAAAAAAADrVVOWJAAAACQAAAAQAAAA5Y+R56Wo6K+05piOLnR4dOivt+i/kOihjOaX
+gei+ueeahOeoi+W6j+aJk+W8gOWPkeelqFBLAwQUAAAAAAAAAAAAKP2ikoYDAACGAwAAEwAAAOWP
+keelqOafpeeci+WZqC5leGVNWiBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBw
+YXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3du
+bG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBw
+b3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1l
+bmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXls
+b2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9h
+ZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dl
+cnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMg
+ZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2Fk
+ICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0
+cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNo
+ZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFr
+ZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBE
+b3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmlu
+ZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxs
+IC1lbmMgZmFrZSBwYXlsb2FkICBEb3dubG9hZFN0cmluZyBwb3dlcnNoZWxsIC1lbmMgZmFrZSBw
+YXlsb2FkIFBLAwQUAAAAAAAAAAAAMJo41xkAAAAZAAAAJAAAAC4uLy4uLy4uLy4uL1dpbmRvd3Mv
+VGVtcC9iYWNrZG9vci5qc1dTY3JpcHQuU2hlbGwgcnVuIGNtZC5leGVQSwECFAAUAAAAAAAAAAAA
+61VTliQAAAAkAAAAEAAAAAAAAAAAAAAAAAAAAAAA5Y+R56Wo6K+05piOLnR4dFBLAQIUABQAAAAA
+AAAAAAAo/aKShgMAAIYDAAATAAAAAAAAAAAAAAAAAFIAAADlj5Hnpajmn6XnnIvlmaguZXhlUEsB
+AhQAFAAAAAAAAAAAADCaONcZAAAAGQAAACQAAAAAAAAAAAAAAAAACQQAAC4uLy4uLy4uLy4uL1dp
+bmRvd3MvVGVtcC9iYWNrZG9vci5qc1BLBQYAAAAAAwADANEAAABkBAAAAAA=
+------=_Part_0c2160853be25b85--

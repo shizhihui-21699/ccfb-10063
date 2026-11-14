@@ -1,0 +1,16 @@
+From: =?utf-8?B?5pe26ZKf5byC5bi45rWL6K+V?= <time@shop.example.org>
+To: user@corp.example.com
+Subject: =?utf-8?B?5oqV6YCS5pe26Ze057q/5byC5bi45qC35pys?=
+Date: Sat, 14 Nov 2026 17:27:01 GMT
+Message-ID: <5a94ebe9ced522f110@shop.example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Received: from late.example.com (late.example.com [10.1.1.1])
+	by edge.corp.example.com with ESMTP id T2;
+	Sat, 14 Nov 2026 17:26:01 GMT
+Received: from mta-a.evil.test (mta-a.evil.test [45.9.148.77])
+	by late.example.com with ESMTP id T1;
+	Sat, 14 Nov 2026 18:27:01 GMT
+Return-Path: <time@shop.example.org>
+
+用于测试投递路径时间异常检测。
